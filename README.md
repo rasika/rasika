@@ -32,9 +32,9 @@ const rasika = {
         devOps: ["AWS", "Docker🐳", "K8", "Nginx"],
         databases: ["MySql", "H2", "sqlite", "DB2"],
         applicationServers: ["Weblogic", "IBM Websphere", "TomCat"],
-        operatingSystems: ["MacOS", "Ubuntu", "Windows"],
-        identityAndAcessMgmt: ["OpenID", "OAuth2", "JWT"],
+        identityAndAcessMgmt: ["OpenID", "OAuth2", "JWT", "SAML"],
         buildAndDepsMgmt: ["Maven", "Gradle", "Travis", "Jenkins"],
+        operatingSystems: ["MacOS", "Ubuntu", "Windows"],
         misc: ["Ballerina", "LSP", "Synapse", "SOAP", "XMPP", "ModBus", "MQTT", "Firebase", "Solidity", "php"]
     },
     architecture: ["Carbon Architecture", "SOA", "Microservices", "MVC", "Progressive web applications", "Single page applications"],
