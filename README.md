@@ -16,7 +16,7 @@ https://img.shields.io/badge/-tiriboy-orange?style=flat-square&logo=Blogger&logo
 ```javascript
 const rasika = {
     pronouns: "He" | "Him",
-    code: ["Java", "Javascript", "Typescript", "Python", "php"],
+    code: ["Java", "C", "Javascript", "Typescript", "Python", "php"],
     askMeAbout: ["java", "js", "java ee", "microservices", "machince-learning", "blockchain", "iot"],
     technologies: {
         backEnd: {
