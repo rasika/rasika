@@ -20,7 +20,7 @@ const rasika = {
     askMeAbout: ["java", "js", "java ee", "microservices", "machince-learning", "blockchain", "iot"],
     technologies: {
         backEnd: {
-            java: ["WSO2 Carbon", "JSF", "JSP", "EJB"],
+            java: ["WSO2 Carbon", "JSF", "JSP", "EJB", "TestNG", "Jackson", "GSON", "JAXB", "Xerces", "Mockito", "Powermock"],
             c: ["valgrind", "gprof"],
             javascript: ["Nashorn", "RhinoJs"]
         },
