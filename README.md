@@ -10,5 +10,3 @@ https://img.shields.io/badge/-tiriboy-orange?style=flat-square&logo=Blogger&logo
 ![Twitter Follow](https://img.shields.io/twitter/follow/rasika90?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/rasika?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=rasika)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
