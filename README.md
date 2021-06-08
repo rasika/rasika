@@ -1,5 +1,5 @@
 <h2>Hi, I'm Rasika! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
-<p><em>Software Engineer at <a href="https://wso2.com/">WSO2 Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Lead Software Engineer at <a href="https://www.h2o.ai/">H2O.ai</a> and <a href="https://wso2.com/">ex-WSO2</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: rasika90](https://img.shields.io/badge/-rasika90-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasika90/)](https://www.linkedin.com/in/rasika90/)
